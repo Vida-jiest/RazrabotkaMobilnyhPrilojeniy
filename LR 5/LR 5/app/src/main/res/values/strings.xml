@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="screen_title">Учебный калькулятор</string>
+    <string name="number_a">Число A</string>
+    <string name="number_b">Число B</string>
+    <string name="operation">Операция</string>
+    <string name="calculate">Вычислить</string>
+    <string name="clear_inputs">Очистить поля</string>
+    <string name="result_value">Результат: %1$s</string>
+    <string name="error_input">Введите два корректных числа</string>
+    <string name="error_zero">Деление на ноль запрещено</string>
+    <string name="error_overflow">Переполнение: результат слишком велик</string>
+    <string name="history">Последние 5 вычислений</string>
+    <string name="clear_history">Очистить историю</string>
+</resources>

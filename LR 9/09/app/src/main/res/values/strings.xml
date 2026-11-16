@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab09</string>
+    <string name="app_title">Учебные задачи</string>
+    <string name="hint_title">Название задачи</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="filter_label">Фильтр:</string>
+    <string name="sort_by_title">Сортировать по title (COLLATE NOCASE)</string>
+    <string name="summary_label">По приоритетам (GROUP BY):</string>
+</resources>
